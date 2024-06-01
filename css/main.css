@@ -117,7 +117,7 @@ video.frame-media_left {
 	font-size: calc(var(--index) * 3);
 }
 .frame p {
-	max-width: 30vw;
+	max-width: 20vw;
 	margin-top: 5vh;
 }
 .text-left > * {

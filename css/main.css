@@ -128,33 +128,3 @@ video.frame-media_left {
 }
 
 
-@media (max-width: 890px) {
-	.text-left > * {
-		position: relative;
-		right: 10vh;
-	
-	
-	}
-
-	.text-right > * {
-		position: relative;
-		left: 10vh;
-	
-	
-	}
-}
-@media (max-width: 600px) {
-	.text-left > * {
-		position: relative;
-		right: 5vh;
-	
-	
-	}
-
-	.text-right > * {
-		position: relative;
-		left: 5vh;
-	
-	
-	}
-}
